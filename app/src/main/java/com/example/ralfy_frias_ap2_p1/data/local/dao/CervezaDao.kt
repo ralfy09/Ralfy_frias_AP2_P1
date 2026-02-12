@@ -1,0 +1,5 @@
+package com.example.ralfy_frias_ap2_p1.data.local.dao
+
+class CervezaDao {
+
+}
